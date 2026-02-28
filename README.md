@@ -2,7 +2,7 @@
 # Proyecto Django – Gestión de Artículos
 
 Este proyecto fue desarrollado como parte de la actividad "Infografía Django".
-Implementa un sistema básico de gestión de artículos utilizando el framework Django y su arquitectura MVT (Model - View - Template).
+Este implementa un sistema de gestión de artículos utilizando el framework Django.
 
 ## Objetivo
 
@@ -29,20 +29,11 @@ Demostrar el proceso completo de:
 
 ## Tecnologías utilizadas
 
-- Python 3.x
-- Django 6.x
+- Python 3
+- Django 6
 - SQLite
 - HTML
 
-## Arquitectura
-
-El proyecto sigue el patrón MVT (Model - View - Template):
-
-- Model: Define la estructura de datos.
-- View: Controla la lógica del negocio.
-- Template: Presenta la información al usuario.
-- URLs: Conectan las solicitudes HTTP con las vistas correspondientes.
-
 ## Autor
 
-Proyecto académico desarrollado por [Tu Nombre].
+Proyecto académico desarrollado por Luis Angel Mejia.
